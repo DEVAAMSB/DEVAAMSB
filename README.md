@@ -13,9 +13,20 @@ Hello! Welcome to my personal GitHub account. I am [Abdulqader Baker], a [Softwa
 
 Here are some projects that I have worked on or currently working on:
 
-- [Simple Library](https://github.com/DEVAAMSB/SimpleLibrary): A brief description of the project and the programming technologies used.
-- [Tiger Chat](https://github.com/DEVAAMSB/TigerChat): A brief description of the project and the programming technologies used.
-- [Professional SOFT](https://professionalsoft.epizy.com): A brief description of the project and the programming technologies used.
+- [Simple Library](https://github.com/DEVAAMSB/SimpleLibrary):
+A brief Description : is a simple library location with logging and verified.
+
+The techniques used : ##HTML ##CSS ##JavaScript.
+
+- [Tiger Chat](https://github.com/DEVAAMSB/TigerChat):
+A brief Description : a social communication application.
+
+The techniques used : ##Dart and ##Flutter work framework
+
+- [Professional SOFT](https://professionalsoft.epizy.com):
+A brief Description : a website for software company offering many services.
+
+The techniques used : ##HTML ##CSS ##JavaScript ##PHP ##MySQL.
 
 You can visit the project's page on GitHub for more details and contribute if you're interested.
 
