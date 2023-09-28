@@ -7,7 +7,7 @@
 
 # DEVAAMSB
 
-Hello! Welcome to my personal GitHub account. I am [Abdulqader Baker], a [Software Engineering], and I am passionate about programming and contributing to the developer community.
+Hello! Welcome to my personal GitHub account. I am Abdulqader Baker, a Software Engineering, and I am passionate about programming and contributing to the developer community.
 
 ## Projects
 
@@ -15,15 +15,15 @@ Here are some projects that I have worked on or currently working on:
 
 - [Simple Library](https://github.com/DEVAAMSB/SimpleLibrary):
 A brief Description : is a simple library location with logging and verified.
-The techniques used : # HTML # CSS # JavaScript.
+The techniques used : HTML CSS JavaScript.
 
 - [Tiger Chat](https://github.com/DEVAAMSB/TigerChat):
 A brief Description : a social communication application.
-The techniques used : # Dart and # Flutter work framework
+The techniques used : Dart and Flutter work framework.
 
 - [Professional SOFT](https://professionalsoft.epizy.com):
 A brief Description : a website for software company offering many services.
-The techniques used : # HTML # CSS # JavaScript # PHP # MySQL.
+The techniques used : HTML CSS JavaScript PHP MySQL.
 
 You can visit the project's page on GitHub for more details and contribute if you're interested.
 
