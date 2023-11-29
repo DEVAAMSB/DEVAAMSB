@@ -44,9 +44,8 @@ As a developer, I am interested in the following technologies and tools:
 - [Kotlin]
 - [Python]
 - [Flask]
+- [Django]
 - [PYQT]
-- [Kivy]
-- [KivyMD]
 - [Pandas]
 - [Numpy]
 
@@ -54,7 +53,7 @@ As a developer, I am interested in the following technologies and tools:
 
 You can reach out to me through the following channels:
 
-- Telegram: [https://t.me/ProfessionalSOFT_bot]
+- Telegram: [https://t.me/DevAAMSB_bot]
 - Twitter: [https://twitter.com/DevAAMSB]
 - LinkedIn: [https://www.linkedin.com/in/DevAAMSB]
 
